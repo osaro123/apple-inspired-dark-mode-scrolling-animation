@@ -51,8 +51,8 @@ const Home = () => {
                 Blazing-fast connections.
                 </span>{" "}
                 iPad has always been uniquely portable with superfast Wi-Fi and
-                cellular options. With Wi-Fi 6E, you've got the fastest wireless
-                connection available. So you'll get faster transfers of photos,
+                cellular options. With Wi-Fi 6E, you{"'"}ve got the fastest wireless
+                connection available. So you{"'"}ll get faster transfers of photos,
                 documents, and large video files.
               </p>
             </div>
